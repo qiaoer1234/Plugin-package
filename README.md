@@ -12,7 +12,6 @@
   - [开发框架以及工具库](#framework)
 - [HTML](#html)
 - [CSS](#css)
-- [浏览端 JS](#javascript)
 - [精选阅读](#read)
   - [前端技术](#fedev)
   - [Node 学习资料](#node_read)
@@ -78,7 +77,7 @@
 - [Vuejs](http://cn.vuejs.org) - 渐进式JavaScript 框架
 - [Noticejs](https://github.com/jaredreich/notie.js) - 一个简单的通知库，木有依赖
 
-###### HTML
+<h3 id="html">HTML</h3>
 
 纯 ```HTML``` 相关其实没有好玩的项目，所以这儿展示的内容主要都是一些模板，而且以下列出来的都是免费的，方便拿取搭架后台或者博客
 
