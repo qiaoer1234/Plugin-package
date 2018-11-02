@@ -49,7 +49,6 @@
 - [onepage-scroll](https://github.com/peachananr/onepage-scroll) - 依赖 jQuery 的单页滚动库，和 [fullPage](http://alvarotrigo.com/fullPage/) 类似
 - [videojs](http://videojs.com/) - 当下视频需求都用上```<video>```鸟 样式和交互统一的问题交给 videojs 搞定:)
 - [clipboard](http://zenorocha.github.io/clipboard.js/) - 仅 2KB 大小，搞定剪贴板功能，屌不屌~ 但是，Safari 不支持...
-- [impress.js](https://github.com/impress/impress.js) -  用来写 PPT 不错，偶也曾为其写过一篇[impress.js 初体验](http://www.cnblogs.com/Darren_code/archive/2013/01/04/impressjs.html)
 
 
 > ___```Swiper/PhotoSwipe/fullPage``` 有这仨库，微信里常见的 H5 页完全不是问题哒___
@@ -66,6 +65,7 @@
 
 <h6 id="mobile">移动端插件</h6>
 
+- [adaptive.js](https://github.com/Vibing/adaptive) - 借鉴手淘方案，adaptive.js将整个页面宽度平均分成10份，以clineWidth / 10的结果作为html标签的font-size值。 布局中使用rem作为单位。举例：某UI设计出来的手机页面宽为750px，那么分成十份后为75px，此时html标签的font-size: 75px, 布局时某一模块在设计稿上宽为100px，转成rem则为：100 / 75 = 1.3333rem;在css中则为：width: 1.3333rem。
 - [FlipClock](http://www.flipclockjs.com/) - FlipClock.js 是一个制作精美时钟，定时器和倒计时的 jQuery 插件，并且可以完全通过 CSS 进行定制。有设置为自动启动，存在多种方法控制（启动，停止，getTime，setTime..），支持回调函数，此外，它还有一个全功能的API，能够进一步扩展功能。
 - [iosSelect](http://zhoushengfe.com/iosselect/website/index.html) - 仿IOS端选择器插件，支持日期、地区等
 - [移动端滑动插件better-scroll](http://ustbhuangyi.github.io/better-scroll/doc/zh-hans/#better-scroll) - better-scroll 是一款重点解决移动端（已支持 PC）各种滚动场景需求的插件。better-scroll 是基于原生 JS 实现的，不依赖任何框架。它编译后的代码大小是 63kb，压缩后是 35kb，gzip 后仅有 9kb，是一款非常轻量的 JS lib。
@@ -218,4 +218,4 @@
 
 完善 ing，慢慢把 __Evernote__ 和 __浏览器书签__ 里面的好东西慢慢捣腾到这儿，更欢迎 PR，谢谢。
 
-**[⬆ 返回顶部](#catalog)**
+**[⬆ 返回顶部](#plugins)**
