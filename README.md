@@ -70,7 +70,7 @@
 - [material-design-lite](https://github.com/google/material-design-lite) - ```Star``` 数超过2W的开源模板项目，包含了多套简洁的 ```templates```，可以用于博客、后台或者企业首页。
 
 <h3 id="css">CSS</h3>
-
+- [wow.js](https://github.com/qiaoer1234/wow.js) - 一款帮助你实现这种 CSS 动画效果的插件，很容易定制，你可以改变动画设置喜欢的风格、延迟、长度、偏移和迭代等。
 - [MetroUI](http://metroui.org.ua/) - 好看好用，重点是样式特别、个性
 - [Font-Awesome](http://fontawesome.io/) - 图标字体库。相类似的库有不少，大厂都喜欢造轮子嘛:)
 - [LoadersCSS](https://connoratherton.com/loaders) - 用 CSS 技术实现 loading 动画； 补一句，想熟悉、理解 ```keyframes、animation、transform、transition``` 的童鞋可以直接去读其源码(只有千把行代码)，读完就算出师鸟:)
