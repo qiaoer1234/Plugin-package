@@ -36,6 +36,7 @@
 - [excellentexport](https://github.com/jmaister/excellentexport) - 纯前端的 Excel 导出，非常之方便
 - [Sortable](https://github.com/RubaXa/Sortable) - 拖拽神器，用了就知道
 - [dragula](https://github.com/qiaoer1234/dragula/tree/master) -是一个 JavaScript 库，实现了网页上的拖放功能
+- [autocompleter](https://github.com/qiaoer1234/-Autocompleter-) - autocompleter是一个简单的，容易的，可定制的自动完成功能插件，支持缓存。
 - [html2canvas](https://github.com/niklasvh/html2canvas)+[canvas2Image](https://github.com/randreucetti/canvas2image) - 看这两库的名称就明白是做什么的。使用场景就是“动态生成的HTML可以长按保存为图片”。
 - [onepage-scroll](https://github.com/peachananr/onepage-scroll) - 依赖 jQuery 的单页滚动库，和 [fullPage](http://alvarotrigo.com/fullPage/) 类似
 - [videojs](http://videojs.com/) - 当下视频需求都用上```<video>```鸟 样式和交互统一的问题交给 videojs 搞定:)
