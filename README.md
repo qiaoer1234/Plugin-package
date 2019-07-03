@@ -47,9 +47,6 @@
 
 <h6 id="mobile">移动端插件</h6>
 
-- [前端技术](#fedev)
-- [Node 学习资料](#node_read)
-- [其他技术](#otherdev)
 - [adaptive.js](https://github.com/Vibing/adaptive) 
 - 借鉴手淘方案，adaptive.js将整个页面宽度平均分成10份，以clineWidth / 10的结果作为html标签的font-size值。 布局中使用rem作为单位。
 - [FlipClock](http://www.flipclockjs.com/) 
