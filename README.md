@@ -24,6 +24,7 @@
 <h6 id="features">功能插件</h6>
 
 - [jedate](http://www.jemui.com/uidoc/jedate.html) - 是一款原生JS开发的 不依赖任何第三方库 大众化的日期控件
+- [EasyUI ](http://www.jeasyui.net/plugins) -一种基于jQuery、Angular.、Vue和React的用户界面插件集合,不需要写很多代码，你只需要通过编写一些简单HTML标记，就可以定义用户界面。
 - [jquery.cityselect](https://github.com/akveo/blur-admin) - jQuery+JSON的省市三级、二级联动插件制订此文档。
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D 库。超多的 [examples](http://threejs.org/examples/) 等着你去发现，你只需要关注内存和风扇就行了
 - [ECharts](http://echarts.baidu.com/index.html) - 好用，最关键的是支持的图表展示非常之多，强烈推荐
