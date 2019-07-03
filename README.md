@@ -41,7 +41,7 @@
 - [onepage-scroll](https://github.com/peachananr/onepage-scroll) - 依赖 jQuery 的单页滚动库，和 [fullPage](http://alvarotrigo.com/fullPage/) 类似
 - [videojs](http://videojs.com/) - 当下视频需求都用上```<video>```鸟 样式和交互统一的问题交给 videojs 搞定:)
 - [clipboard](http://zenorocha.github.io/clipboard.js/) - 仅 2KB 大小，搞定剪贴板功能，屌不屌~ 但是，Safari 不支持...
-- [select2](https://select2.org/) - 
+- [select2](https://select2.org/) - 是一款可以对HTML的标签进行功能优化的jQuery插件,支持对列表进行检索,从远程数据源获取列表项等各种功能.
 
 
 > ___```Swiper/PhotoSwipe/fullPage``` 有这仨库，微信里常见的 H5 页完全不是问题哒___
