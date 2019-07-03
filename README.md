@@ -27,6 +27,7 @@
 - [pikaday](https://github.com/qiaoer1234/Pikaday)  - 日期选择器，不依赖于任何 Javascript 库，并且文件大小小于 5K，功能很强大。
 - [EasyUI ](http://www.jeasyui.net/plugins) -一种基于jQuery、Angular.、Vue和React的用户界面插件集合,不需要写很多代码，你只需要通过编写一些简单HTML标记，就可以定义用户界面。
 - [jquery.cityselect](https://github.com/akveo/blur-admin) - jQuery+JSON的省市三级、二级联动插件制订此文档。
+- [distpicker](https://github.com/fengyuanchen/distpicker) - 是一款可以实现中国省市区地址三级联动jQuery插件。它使用简单，简单设置即可完成中国省市区地址联动效果。
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D 库。超多的 [examples](http://threejs.org/examples/) 等着你去发现，你只需要关注内存和风扇就行了
 - [ECharts](http://echarts.baidu.com/index.html) - 好用，最关键的是支持的图表展示非常之多，强烈推荐
 - [highcharts](  https://www.hcharts.cn/demo/highcharts ) -好用--支持 IE6 及以上的所有主流浏览器，完美支持移动端缩放、手势操作。
