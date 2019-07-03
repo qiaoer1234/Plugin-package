@@ -27,6 +27,7 @@
 - [jquery.cityselect](https://github.com/akveo/blur-admin) - jQuery+JSON的省市三级、二级联动插件制订此文档。
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D 库。超多的 [examples](http://threejs.org/examples/) 等着你去发现，你只需要关注内存和风扇就行了
 - [ECharts](http://echarts.baidu.com/index.html) - 好用，最关键的是支持的图表展示非常之多，强烈推荐
+- [highcharts](  https://www.hcharts.cn/demo/highcharts ) -好用--支持 IE6 及以上的所有主流浏览器，完美支持移动端缩放、手势操作。
 - [highlightjs](https://highlightjs.org/) - 代码高亮库，支持非常多的语言
 - [daterangepicker](http://www.daterangepicker.com) - 时间选择插件的不二选择，基于 ```Bootstrap``` 和 [Moment.js](http://momentjs.com/)
 - [excellentexport](https://github.com/jmaister/excellentexport) - 纯前端的 Excel 导出，非常之方便
